@@ -3,6 +3,8 @@
 **資工1B 第21組**  
 **組員: 林宥均, 謝少庭, 吳鉑彥**  
 
+
+[簡報檔](config/C++_Project_Presentation.pdf)
 ---
 
 **程式介紹:**  
